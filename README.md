@@ -28,7 +28,7 @@ Konzolová aplikace pro správu úkolů s využitím MySQL databáze a sadu auto
 conn = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="VAŠE_HESLO",
+    password="vaše_heslo",
     database="název_vaší_db" 
 )
 
